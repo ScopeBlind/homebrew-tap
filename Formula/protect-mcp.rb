@@ -13,6 +13,6 @@ class ProtectMcp < Formula
   end
 
   test do
-    assert_match "protect-mcp", shell_output("#{bin}/protect-mcp --help 2>&1", 0)
+    assert_match "protect-mcp", shell_output("#{bin}/protect-mcp --help 2>&1")
   end
 end
