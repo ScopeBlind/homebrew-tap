@@ -1,8 +1,8 @@
 class ProtectMcp < Formula
   desc "Fail-closed Cedar policy gate with Ed25519-signed receipts for agent tool calls"
   homepage "https://scopeblind.com"
-  url "https://registry.npmjs.org/protect-mcp/-/protect-mcp-0.32.3.tgz"
-  sha256 "54d993034522e7b670b6af9863c81d8785bf18755d5a03dcb84639cadfe9a02c"
+  url "https://registry.npmjs.org/protect-mcp/-/protect-mcp-0.32.4.tgz"
+  sha256 "fe2e5a8288f84c8dba179059d7c2ec5b0a66c56089657c5cf59e9b197bf8c6ff"
   license "MIT"
 
   depends_on "node"
